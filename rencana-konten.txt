@@ -1,5 +1,7 @@
 Rencana kontenku
 
 Html dan Css
+ -belajar html dan css untuk dasar front end
 PHP framework
+ -belajar framework laravel
 GIT dan GITHUB
