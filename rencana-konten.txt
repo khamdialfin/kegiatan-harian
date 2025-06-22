@@ -4,5 +4,6 @@ Html dan Css
  -belajar html dan css untuk dasar front end
 PHP framework
  -belajar framework laravel
+ -belajar framework javascript
 GIT dan GITHUB
 struktur dasar fundamental
